@@ -1,3 +1,5 @@
+![a](https://github.com/ladosudeste/Parser-Null-Pointer/blob/fd6967c37b09eda5d59222767040ddc78ef0268e/img/Gemini_Generated_Image_v4wmmzv4wmmzv4wm.png)
+
 🚨 Exploit: Null Pointer Dereference em Parser de Figurinhas do Telegram
 
 <div align="center">
